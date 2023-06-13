@@ -1,0 +1,523 @@
+.navbar
+  {
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    width: 100%;
+  background-color: rgb(35, 218, 231);
+  }
+  img
+  {
+    margin-top: 60px;
+    width: 100%;
+    height: 500px;
+  }
+  .demo
+  {
+    position: absolute;
+    margin-left: 10px;
+    top: 100px;
+    font-size: 50px;
+    color: white
+  }
+  .C
+  {
+    position: absolute;
+    background-color:rgb(131, 128, 128);
+    top: 400px;
+    right: 225px;
+    height: 20px;
+    width: 100px;
+    border-radius: 10px;
+  }
+  .D
+  {
+    
+    position: absolute;
+    top: 300px;
+    width: 450px;
+    margin-left: 20px;
+    border-radius: 10px;
+
+  }  
+  .E
+{
+
+  margin-left: 10px;
+  margin-top: 20px;
+  color: black;
+
+}
+
+.F
+{
+  background-color: black;
+  border: 5px solid black;
+  height: 500px;
+  width: 100%;
+  margin-top: 10px;
+}
+.one
+{
+  margin-top: 0px;
+  margin-left: 20px;
+  height: 50px;
+  width: 250px;
+}
+.two
+{
+  margin-top: 0px;
+  margin-left: 400px;
+  height: 50px;
+  width: 250px;
+}
+.three
+{
+  margin-top: 0px;
+  margin-left: 780px;
+  height: 50px;
+  width: 250px;
+}
+.one img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 600px;
+  height: 250px;
+  width: 350px;
+}
+.two img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 600px;
+  height: 250px;
+  width: 350px;
+}
+.three img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 600px;  
+  height: 250px;
+  width: 350px;
+}
+.text1
+{
+  text-color: white;
+  position: absolute;
+  top: 920px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.text2
+{
+  text-color: white;
+  position: absolute;
+  top: 920px;
+  margin-left: 420px;
+  font-size: 25px;
+}
+.text3
+{
+  text-color: white;
+  position: absolute;
+  top: 920px;
+  margin-left: 800px;
+  font-size: 25px;
+}
+.button1
+{
+  
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  margin-left: 25px;
+  top: 1000px;
+  
+}
+.button2
+{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  margin-left: 420px;
+  top: 1000px;
+}
+.button3
+{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  margin-left: 800px;
+  top: 1000px;
+}
+.arrow
+{
+  color: antiquewhite;
+  margin-right: 50px;
+  height: 150px;
+  width: 150px;
+}
+.a1
+{
+  position: absolute;
+  top: 700px;
+  border-radius: 80px;
+  height: 150px;
+  width: 150px;
+  margin-left: 1150px;
+}
+
+
+.demo1
+  {
+    position: absolute;
+    margin-left: 10px;
+    top: 100px;
+    font-size: 50px;
+    color: white;
+
+  }
+  .C1
+  {
+    position: absolute;
+    background-color: rgb(177, 164, 164);
+    top: 400px;
+    right: 225px;
+    height: 20px;
+    width: 100px;
+    border-radius: 10px;
+  }
+  .D1
+  {
+    position: absolute;
+    top: 300px;
+    width: 450px;
+    margin-left: 20px;
+    border-radius: 10px;
+  }  
+
+  .F1
+{
+  background-color: black;
+  border: 5px solid black;
+  height: 500px;
+  width: 100%;
+  margin-top: 10px;
+}
+  .E1
+{
+  margin-left: 10px;
+  margin-top: 20px;
+  color: black;
+}
+.one1
+{
+  margin-top: 0px;
+  margin-left: 20px;
+  height: 50px;
+  width: 250px;
+}
+.two1
+{
+  margin-top: 0px;
+  margin-left: 400px;
+  height: 50px;
+  width: 250px;
+}
+.three1
+{
+  margin-top: 0px;
+  margin-left: 780px;
+  height: 50px;
+  width: 250px;
+}
+.one1 img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 1120px;
+  height: 250px;
+  width: 350px;
+}
+.two1 img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 1120px;
+  height: 250px;
+  width: 350px;
+}
+.three1 img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 1120px;  
+  height: 250px;
+  width: 350px;
+}
+.text11
+{
+  text-color: white;
+  position: absolute;
+  top: 1440px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.text21
+{
+  text-color: white;
+  position: absolute;
+  top: 1440px;
+  margin-left: 420px;
+  font-size: 25px;
+}
+.text31
+{
+  text-color: white;
+  position: absolute;
+  top: 1440px;
+  margin-left: 800px;
+  font-size: 25px;
+}
+.button11
+{
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  margin-left: 25px;
+  top: 1520px;
+  
+}
+.button21
+{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  margin-left: 420px;
+  top: 1520px;
+}
+.button31
+{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  margin-left: 800px;
+  top: 1520px;
+}
+.arrow1
+{
+  color: antiquewhite;
+  margin-right: 50px;
+  height: 150px;
+  width: 150px;
+}
+.a11
+{
+  position: absolute;
+  top: 1230px;
+  border-radius: 80px;
+  height: 150px;
+  width: 150px;
+  margin-left: 1150px;
+}
+.carousel-inner
+  {
+    height: 600px;
+    width:90%;
+    margin-left: 55px;
+
+  }
+.demo2
+  {
+    position: absolute;
+    margin-left: 10px;
+    top: 100px;
+    font-size: 50px;
+    color: white;
+
+  }
+  .C2
+  {
+    position: absolute;
+    background-color: black(177, 164, 164);
+    top: 400px;
+    right: 225px;
+    height: 20px;
+    width: 100px;
+    border-radius: 10px;
+  }
+  .D2
+  {
+    position: absolute;
+    top: 300px;
+    width: 450px;
+    margin-left: 20px;
+    border-radius: 10px;
+  }  
+
+  .F2
+{
+  background-color: black;
+  border: 5px solid black;
+  height: 500px;
+  width: 100%;
+  margin-top: 10px;
+}
+  .E2
+{
+  margin-left: 10px;
+  margin-top: 20px;
+  color: black;
+}
+.one2
+{
+  margin-top: 0px;
+  margin-left: 20px;
+  height: 50px;
+  width: 250px;
+}
+.two2
+{
+  margin-top: 0px;
+  margin-left: 400px;
+  height: 50px;
+  width: 250px;
+}
+.three2
+{
+  margin-top: 0px;
+  margin-left: 780px;
+  height: 50px;
+  width: 250px;
+}
+.one2 img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 2300px;
+  height: 250px;
+  width: 350px;
+}
+.two2 img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 2300px;
+  height: 250px;
+  width: 350px;
+}
+.three2 img
+{
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top: 2300px;  
+  height: 250px;
+  width: 350px;
+}
+.text12
+{
+  text-color: white;
+  position: absolute;
+  top: 2620px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.text22
+{
+  text-color: white;
+  position: absolute;
+  top: 2610px;
+  margin-left: 420px;
+  font-size: 25px;
+}
+.text32
+{
+  text-color: white;
+  position: absolute;
+  top: 2610px;
+  margin-left: 800px;
+  font-size: 25px;
+}
+.button12
+{
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  margin-left: 25px;
+  top: 2700px;
+  
+}
+.button22
+{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  margin-left: 420px;
+  top: 2700px;
+}
+.button32
+{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  margin-left: 800px;
+  top: 2700px;
+}
+.arrow2
+{
+  color: antiquewhite;
+  margin-right: 50px;
+  height: 150px;
+  width: 150px;
+}
+.a12
+{
+  position: absolute;
+  top: 2410px;
+  border-radius: 80px;
+  height: 150px;
+  width: 150px;
+  margin-left: 1150px;
+}
+ .texta
+ {
+   position: absolute;
+   margin-top: 50px;
+   color: black;
+ }
+ .z
+ {
+  color: white;
+  margin-top: 20px;
+  margin-left: 35px;
+ }
+ .x
+ {
+  color: white;
+  margin-left: 300px;
+  position: absolute;
+  top: 2770px;
+ }
+ .new
+ {
+  background-color: black;
+  height: 170px;
+ }
+ .s
+ {
+  color: white;
+ }
+ body{
+  background:linear-gradient(rgb(4, 151, 131),rgb(20, 187, 95),rgb(143, 202, 163));
+ }
